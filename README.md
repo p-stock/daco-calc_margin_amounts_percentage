@@ -1,0 +1,2 @@
+(1) create properties by running index.js -> set "const IS_PROD = false;" accordingly in index.js
+(2) add deal based workflow to portal and add missing values in constants for prod (cf. IS_PROD in workflow action if missing) (Workflow in sandbox: https://app-eu1.hubspot.com/workflows/144867716/platform/flow/1552320706/edit)
